@@ -1,0 +1,7 @@
+{
+  "name": "UPI Payment App",
+  "description": "A fully functional high-fidelity UPI payment application simulation featuring secure login, QR scanning, payment processing, PIN security, and transaction history.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
